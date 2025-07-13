@@ -2,6 +2,7 @@
   "name": "lincothemeone",
   "displayName": "LincoThemeOne-Dark",
   "description": "Tema de cores linco.work dark",
+  "publisher": "linformatica",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
