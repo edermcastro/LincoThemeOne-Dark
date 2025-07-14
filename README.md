@@ -1,5 +1,5 @@
 # Exemplo do tema aplicado
-![Captura de tela](https://github.com/edermcastro/LincoThemeOne-Dark/blob/fe379831005e1503f072d50bf13ec4603b54c178/cap.png?raw=true "Captura de tela")
+![Captura de tela](https://github.com/edermcastro/LincoThemeOne-Dark/blob/master/cap.png?raw=true "Captura de tela")
 
 # Extensões recomendadas
 ## As extesões opcionais normalmente são as relacionadas ao seu ambiente de trabalho ou seu ramo/segmento.
