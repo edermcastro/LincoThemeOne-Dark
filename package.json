@@ -3,13 +3,14 @@
   "displayName": "LincoThemeOne-Dark",
   "description": "Tema de cores linco.work dark",
   "publisher": "linformatica",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
