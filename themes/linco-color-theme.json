@@ -75,6 +75,7 @@
 		"input.foreground": "#8dbe1a",
 		"input.border": "#48610f",
 		"input.placeholderForeground": "#45551f",
+		"button.background":"#618313",
 		//area de foco, normalmente era azul
 		"focusBorder": "#8dbe1a",
 		//barra de rolagem
