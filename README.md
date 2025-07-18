@@ -39,7 +39,7 @@ Dentro da pasta .vscode, crie um arquivo `settings.json`.
 
 Adicione as configurações abaixo lá:
 
-`
+
 {
 
     //deixa a nova janela maximizada
@@ -48,19 +48,23 @@ Adicione as configurações abaixo lá:
     "editor.fontSize": 14,
     "editor.lineHeight": 24,
     "editor.letterSpacing": 0.6,
-    //organiza os imports
-    "editor.formatOnSave": false,
-    "editor.formatOnPaste": true,
-    "editor.codeActionsOnSave": { 
-        "source.organizeImports": "explicit"
-    },
+    
+    ////organiza os imports linhas opcionais
+    //"editor.formatOnSave": false, //formata o codigo ao salvar
+    //"editor.formatOnPaste": true, //formata o codigo ao colar algum trecho
+    //"editor.codeActionsOnSave": { 
+    //    "source.organizeImports": "explicit"
+    //},
+
     //tabulação
     "editor.tabSize": 2,
     "editor.rulers": [
         100,
         120
     ],
-    //desativa o minimapa
+
+    //desativa o minimapa se mudar para false
+    "editor.minimap.enable": true,
     "editor.minimap.autohide": true,
     //animação do cursor
     "editor.cursorBlinking": "expand",
@@ -110,6 +114,6 @@ Adicione as configurações abaixo lá:
     "terminal.integrated.fontSize": 15,
 
 }
-`
+
 
 **Aproveite!**
